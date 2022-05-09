@@ -1,7 +1,5 @@
 #!/bin/bash
 
-loc1="15:15:0E 78:18:0N Rimouski"
-loc2="7:00:0E 76:10:0N"
 #J=-JL24/78.7/77.6/79.8/10c #Projection Lambert Conformal Conic
 J=-JU17/10c #Projection UTM
 R=-R-82.734/-78.342/50.857/55.329 #Region [-R<west>/<east>/<south>/<north>[+r]]
